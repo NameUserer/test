@@ -1,9 +1,15 @@
 # xyz vizsgamunka
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula odio, molestie venenatis ultricies ut, euismod vitae diam. Pellentesque et leo facilisis, vulputate libero at, lacinia lacus. Donec eu auctor odio. Vestibulum sit amet eros sit amet sapien dignissim consectetur eget at tellus. Donec commodo iaculis leo. Aenean mauris mi, laoreet in iaculis in, vestibulum sit amet orci. Nullam finibus ex arcu, ut tristique elit maximus a. Sed euismod, neque eu placerat vulputate, felis ex hendrerit dui, quis luctus metus arcu sed purus. Cras id nunc sit amet turpis porta malesuada ac a mauris. Vivamus at ornare ipsum. Cras facilisis sem non nulla tincidunt, non tristique diam accumsan. Curabitur blandit posuere lacus, fermentum posuere turpis tempus ut. Proin sit amet dictum leo. Aenean egestas vestibulum sem quis malesuada.
 
+---
+
 ## csapattagok
 - xyz
 - xyz
+## backend felépítése
+### adatbázis
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula odio, molestie venenatis ultricies ut, euismod vitae diam. Pellentesque et leo facilisis, vulputate libero at, lacinia lacus. Donec eu auctor odio. Vestibulum sit amet eros sit amet sapien dignissim consectetur eget at tellus. Donec commodo iaculis leo. Aenean mauris mi, laoreet in iaculis in, vestibulum sit amet orci. Nullam finibus ex arcu, ut tristique elit maximus a. Sed euismod, neque eu placerat vulputate, felis ex hendrerit dui, quis luctus metus arcu sed purus. Cras id nunc sit amet turpis porta malesuada ac a mauris. Vivamus at ornare ipsum. Cras facilisis sem non nulla tincidunt, non tristique diam accumsan. Curabitur blandit posuere lacus, fermentum posuere turpis tempus ut. Proin sit amet dictum leo. Aenean egestas vestibulum sem quis malesuada.
+![image](https://github.com/user-attachments/assets/6c6eae4a-7bef-4b0f-9fd1-bb444832d28d)
 
 ## Frontend felépítése
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula odio, molestie venenatis ultricies ut, euismod vitae diam. Pellentesque et leo facilisis, vulputate libero at, lacinia lacus. Donec eu auctor odio. Vestibulum sit amet eros sit amet sapien dignissim consectetur eget at tellus. Donec commodo iaculis leo. Aenean mauris mi, laoreet in iaculis in, vestibulum sit amet orci. Nullam finibus ex arcu, ut tristique elit maximus a. Sed euismod, neque eu placerat vulputate, felis ex hendrerit dui, quis luctus metus arcu sed purus. Cras id nunc sit amet turpis porta malesuada ac a mauris. Vivamus at ornare ipsum. Cras facilisis sem non nulla tincidunt, non tristique diam accumsan. Curabitur blandit posuere lacus, fermentum posuere turpis tempus ut. Proin sit amet dictum leo. Aenean egestas vestibulum sem quis malesuada.
